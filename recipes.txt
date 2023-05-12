@@ -3,4 +3,9 @@ welcome to recipes
 Kheer
 Pasta
 chicken
+
+beans
+pizza
+
+
 Thank you
